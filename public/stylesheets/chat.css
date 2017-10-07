@@ -1,1 +1,6 @@
-
+#message-pane {
+    background: url(https://i.giphy.com/media/UNBbBnOLA69YA/giphy.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top
+}
