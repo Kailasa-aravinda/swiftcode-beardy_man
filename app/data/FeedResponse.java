@@ -1,8 +1,8 @@
 package data;
 
 public class FeedResponse {
-    String title;
-    String description;
+   public String title;
+    public String description;
     public String pubDate;
 
 }
